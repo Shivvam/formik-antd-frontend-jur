@@ -15,7 +15,7 @@
 
 - First time working with the ant design UI, therefore took some time to understand the formik-antd
 
-## b. How differently will you do if you had a couple of more days to complete the assignment? What if you have one full month
+## c. How differently will you do if you had a couple of more days to complete the assignment? What if you have one full month
 
 - Test properly
 - Cross plateform testing of UI
@@ -30,7 +30,9 @@
 
 Run the following command
 
-- Clone the Repository in to local directory
+- You can directly visit the url : https://formik-antd-frontend-jur.vercel.app/
+OR
+- Run the following commands:-
 
 ```
 git clone https://github.com/Shivvam/formik-antd-frontend-jur.git
