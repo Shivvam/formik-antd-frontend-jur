@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\UserProfile\\Display",
+    "\\src\\components\\UserProfile\\Forms",
+    "\\src\\layout",
+    "\\src\\pages"
+  ],
+  "SelectedNode": "\\src\\pages\\index.js",
+  "PreviewInSolutionExplorer": false
+}
