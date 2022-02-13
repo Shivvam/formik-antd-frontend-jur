@@ -2,10 +2,10 @@
 
 ## a. Approach to the Project
 
--Planning High Level Abstract Design of Solution
--Structure the App
--Indentify the Components
--Declarative Approach to Development
+- Planning High Level Abstract Design of Solution
+- Structure the App
+- Indentify the Components
+- Declarative Approach to Development
 	- Declare First What to Do
 	- Design and Development of the Components
 - Unit Testing of Components
@@ -13,7 +13,7 @@
 
 ## b. Challanges Faced
 
--First time working with the ant design UI, therefore took some time to understand the formik-antd
+- First time working with the ant design UI, therefore took some time to understand the formik-antd
 
 ## b. How differently will you do if you had a couple of more days to complete the assignment? What if you have one full month
 
@@ -23,10 +23,10 @@
 - Using Redux Toolkit for State management 
 
 
-### URL of the deployed app : 
+### URL of the deployed app :  https://formik-antd-frontend-jur.vercel.app/
 
 
-###How to run the project ?
+### How to run the project ?
 
 Run the following command
 
@@ -34,9 +34,6 @@ Run the following command
 
 ```
 git clone https://github.com/Shivvam/formik-antd-frontend-jur.git
-
-
-```
 cd formik-antd-frontend-jur
 npm install
 npm run start
