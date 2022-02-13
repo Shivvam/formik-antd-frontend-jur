@@ -38,6 +38,7 @@ OR
 git clone https://github.com/Shivvam/formik-antd-frontend-jur.git
 cd formik-antd-frontend-jur
 npm install
+npm run build
 npm run start
 ```
 
